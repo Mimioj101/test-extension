@@ -73,8 +73,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 #######################################################################
-Run 'npm install'
-Run 'npm run build'
-Travel to 'chrome://extensions/' in your Google Chrome browser
-Turn on 'Developer Mode'
-Select 'Load unpacked' and select the entire 'build' folder
+Run 'npm install',
+
+Run 'npm run build',
+
+Travel to 'chrome://extensions/' in your Google Chrome browser,
+
+Turn on 'Developer Mode',
+
+Select 'Load unpacked' and select the entire 'build' folder.
